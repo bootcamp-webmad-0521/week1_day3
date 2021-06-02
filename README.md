@@ -22,6 +22,4 @@
 
 ## External resources
 
-- [Linea IO](https://github.com/linea-io/Linea-Iconset): iconos conceptuales SVG aptos para [VivusSVG plugin](https://maxwellito.github.io/vivus/)
-- [Unsplash](https://unsplash.com/): imágenes de calidad con licencia abierta.
 - [Google Fonts](https://fonts.google.com/): web fonts gratuitas.
